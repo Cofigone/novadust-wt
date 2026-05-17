@@ -4,7 +4,7 @@
 
 **NOVADUST** is a dark blue color theme designed for high contrast yet maintaining the softness and warmth necessary for endless, comfortable work.<br>
 Created by [marta.stl](https://mmartamg.github.io/novadust/)<br>
-Ported for Windows Terminal by me.
+Ported for Windows Terminal by me (and a little help by AI).
 
 **Quick Install:**
 
