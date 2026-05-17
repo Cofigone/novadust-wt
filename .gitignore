@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# But not these directories (so git can descend into them)
+!*/
+
+# Allow the items we want to commit
+!/windows-terminal/
+!/windows-terminal/**
+!/CHANGELOG.md
+!/README.md
+
+# Always keep .gitignore itself tracked
+!.gitignore
