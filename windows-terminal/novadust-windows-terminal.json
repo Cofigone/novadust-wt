@@ -1,0 +1,23 @@
+{
+  "name": "NOVADUST",
+  "background": "#1d2833",
+  "foreground": "#cfd1d1",
+  "cursorColor": "#ffd580",
+  "selectionBackground": "#303f5156",
+  "black": "#000911",
+  "red": "#ff695d",
+  "green": "#b9e678",
+  "yellow": "#ffd580",
+  "blue": "#5fcbc3",
+  "purple": "#d689e3",
+  "cyan": "#85dda2",
+  "white": "#f7f5e9",
+  "brightBlack": "#596d84",
+  "brightRed": "#ff695d",
+  "brightGreen": "#b9e678",
+  "brightYellow": "#ffd580",
+  "brightBlue": "#5fcbc3",
+  "brightPurple": "#d689e3",
+  "brightCyan": "#85dda2",
+  "brightWhite": "#f7f5e9"
+}
